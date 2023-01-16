@@ -1,0 +1,15 @@
+/Users/carissacammarata/Projects/Deliverable-2/Deliverable-2/bin/Debug/net6.0/Deliverable-2
+/Users/carissacammarata/Projects/Deliverable-2/Deliverable-2/bin/Debug/net6.0/Deliverable-2.deps.json
+/Users/carissacammarata/Projects/Deliverable-2/Deliverable-2/bin/Debug/net6.0/Deliverable-2.runtimeconfig.json
+/Users/carissacammarata/Projects/Deliverable-2/Deliverable-2/bin/Debug/net6.0/Deliverable-2.dll
+/Users/carissacammarata/Projects/Deliverable-2/Deliverable-2/bin/Debug/net6.0/Deliverable-2.pdb
+/Users/carissacammarata/Projects/Deliverable-2/Deliverable-2/obj/Debug/net6.0/Deliverable-2.csproj.AssemblyReference.cache
+/Users/carissacammarata/Projects/Deliverable-2/Deliverable-2/obj/Debug/net6.0/Deliverable-2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carissacammarata/Projects/Deliverable-2/Deliverable-2/obj/Debug/net6.0/Deliverable-2.AssemblyInfoInputs.cache
+/Users/carissacammarata/Projects/Deliverable-2/Deliverable-2/obj/Debug/net6.0/Deliverable-2.AssemblyInfo.cs
+/Users/carissacammarata/Projects/Deliverable-2/Deliverable-2/obj/Debug/net6.0/Deliverable-2.csproj.CoreCompileInputs.cache
+/Users/carissacammarata/Projects/Deliverable-2/Deliverable-2/obj/Debug/net6.0/Deliverable-2.dll
+/Users/carissacammarata/Projects/Deliverable-2/Deliverable-2/obj/Debug/net6.0/refint/Deliverable-2.dll
+/Users/carissacammarata/Projects/Deliverable-2/Deliverable-2/obj/Debug/net6.0/Deliverable-2.pdb
+/Users/carissacammarata/Projects/Deliverable-2/Deliverable-2/obj/Debug/net6.0/Deliverable-2.genruntimeconfig.cache
+/Users/carissacammarata/Projects/Deliverable-2/Deliverable-2/obj/Debug/net6.0/ref/Deliverable-2.dll
